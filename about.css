@@ -1,0 +1,127 @@
+body
+		{
+			 background-color: oldlace;
+	}
+/*---header & carousel-----*/
+	#h1
+		{
+			
+			    text-align: center;
+                font-weight: 900;
+                font-size: xx-large;
+			font-variant: small-caps;
+			text-transform: capitalize;
+        }
+		#h2
+		{
+			text-align: center;
+             font-family: initial;
+             font-weight: 600;
+			font-size: medium;
+		}
+		.head1
+		{
+			background-color: beige;
+            padding-bottom: 2rem;
+		}
+		.header
+		{
+			background-color: darksalmon;
+			padding-bottom: 0rem;
+		}
+		.nav-link
+		{
+			    color: white ! important;
+               font-weight: 900;
+		}
+		.slide
+		{
+			height: 400px;
+		}
+		.carousel-inner
+		{
+		  padding: 5px;
+		}
+		.carousel-item
+		{
+         border: 1px solid black ;
+		}
+		.row
+		{
+		 margin-top: 2rem;
+		}
+	/*---mid heading(frsit-portion)---------*/
+		.card-title
+		{
+			    text-align: end;
+                text-transform: capitalize;
+                font-variant: small-caps;
+                color: peru;
+                text-decoration: underline;
+		}
+		.card-text
+		{
+			 text-transform: inherit;
+             font-size: large;
+             font-family: ui-monospace;
+		}
+/*---mid heading(second-portion)---------*/
+	#message-heading 
+    {
+    font-size: x-large;
+    text-align: center;
+    color: sienna;
+    font-family: auto;
+    font-weight: bold;
+    margin-bottom: 25px;
+    text-decoration: underline;
+	text-underline-offset:3px;
+		}
+	.sub-heading
+		{
+    text-transform: uppercase;
+    color: sandybrown;
+    font-family: auto;
+    font-weight: bolder;	
+		}
+		.sub-head-detail
+		{
+			    text-transform: capitalize;
+                font-family: -webkit-body;
+		}
+/**---incharge-----------*/
+
+.center-incharge
+		{
+	text-transform: uppercase;
+    color: orangered;
+    text-align: end;
+    font-weight: 700;
+	margin-top: 5rem;
+		}
+		.incharge-name
+		{
+	text-align: end;
+    color: orangered;
+    font-size: larger;
+    font-weight: 700;
+		}
+		/*footer----------------*/
+		#menu
+		{
+			height: 70px;
+            width: 70rem;
+            background-color: whitesmoke;
+            margin-top: 1rem;
+			font-weight: bold;
+		}
+		#creater
+		{
+			font-size: smaller;
+            color:  burlywood;
+		}
+#menu a
+{
+	color: orange ! important;
+	text-decoration: none;
+}

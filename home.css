@@ -1,0 +1,150 @@
+/*--------header---------*/
+		#h1
+		{
+			
+			    text-align: center;
+                font-weight: 900;
+                font-size: xx-large;
+			font-variant: small-caps;
+			text-transform: capitalize;
+        }
+		#h2
+		{
+			text-align: center;
+            font-family: initial;
+            font-weight: 600;
+			font-size: medium;
+		}
+		.head1
+		{
+			background-color: beige;
+            padding-bottom: 2rem;
+		}
+		.header
+		{
+			background-color: darksalmon;
+			padding-bottom: 0rem;
+		}
+/*---navbar-----------*/
+		.nav-link
+		{
+			   color: white ! important;
+               font-weight: 900;
+		}
+/*----carouel----------*/
+		.slide
+		{
+			height: 400px;
+		}
+		.carousel-inner
+		{
+		  padding: 5px;
+		}
+		.carousel-item
+		{
+         border: 1px solid black ;
+		}
+		.row
+		{
+		 margin-top: 2rem;
+		}
+/*---------mid-portion(frist-portion)--------------------*/
+		.card-title
+		{
+			    text-align: end;
+                text-transform: capitalize;
+                font-variant: small-caps;
+                color: peru;
+                text-decoration: underline;
+		}
+		.card-text
+		{
+			 text-transform: inherit;
+             font-size: large;
+             font-family: ui-monospace;
+		}
+/*---------mid-portion(second-portion)----------*/
+		#message-heading
+		{
+			font-size: x-large;
+            text-align: center;
+			color: sienna;
+			font-family: auto;
+			font-weight: bold;
+			text-decoration: underline;
+			text-underline-offset:3px;
+		}
+		.detailmessage
+		{
+			 text-transform: capitalize;
+             line-height: 25px;
+             font-size: 16px;
+             font-family: ui-monospace;
+			margin-top: 35px;
+		}
+		.detailmessage1
+		{
+		    text-transform: capitalize;
+            font-family: cursive;
+            color: currentColor;
+			font-size: 15px;
+		}
+      .btn-danger
+      {
+	  width: 15rem; color: white! important;font-weight: 600 !important;
+      }
+		#img1
+		{
+		height: 25px;
+		}
+		.col
+		{
+			line-height: 5rem;
+		}
+		.notice
+		{
+	     font-family: auto;
+        font-variant: small-caps;
+        color: brown;
+        margin-top: 25px;
+        margin-bottom: 20px;
+        text-decoration: underline;
+        }
+/*------links----*/
+.new
+{
+	font-size:small;
+	text-transform: capitalize;
+	font-variant: small-caps;
+}
+   .new a
+{
+	color:red !important;
+	
+}
+.abc a
+{
+	color:orangered !important;
+	text-decoration: none ! important;
+}
+
+	/*footer----------------*/
+		#menu
+		{
+			height: 70px;
+            width: 70rem;
+            background-color: whitesmoke;
+            margin-top: 1rem;
+			font-weight: bold;
+		}
+		#creater
+		{
+			font-size: smaller;
+            color: burlywood;
+		}
+#menu a
+{
+	color: orange ! important;
+	text-decoration: none;
+}
+ 

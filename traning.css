@@ -1,0 +1,139 @@
+/*--------header---------*/
+		#h1
+		{
+			
+			    text-align: center;
+                font-weight: 900;
+                font-size: xx-large;
+			font-variant: small-caps;
+			text-transform: capitalize;
+        }
+		#h2
+		{
+			text-align: center;
+            font-family: initial;
+            font-weight: 600;
+			font-size: medium;
+			color: black ! important;
+		}
+		.head1
+		{
+			background-color: beige;
+            padding-bottom: 2rem;
+		}
+		.header
+		{
+			background-color: darksalmon;
+			padding-bottom: 0rem;
+		}
+/*---navbar-----------*/
+		.nav-link
+		{
+			   color: white ! important;
+               font-weight: 900;
+		}
+/*----carouel----------*/
+		.slide
+		{
+			height: 400px;
+		}
+		.carousel-inner
+		{
+		  padding: 5px;
+		}
+		.carousel-item
+		{
+         border: 1px solid black ;
+		}
+		.row
+		{
+		 margin-top: 2rem;
+         }
+/*---------mid-portion(frist-portion)--------------------*/
+		.card-title
+		{
+			    text-align: end;
+                text-transform: capitalize;
+                font-variant: small-caps;
+                color: peru;
+                text-decoration: underline;
+		}
+		.card-text
+		{
+			 text-transform: inherit;
+             font-size: large;
+             font-family: ui-monospace;
+		}
+#heading
+		{
+			font-size: 29px;
+            text-align: end;
+			margin-bottom: 2rem;
+			color: peru;
+			font-family: auto;
+			font-weight: bold;
+			text-decoration:underline;
+			text-underline-offset:3px;
+		}
+#row2
+{
+	    color: red;
+    background-image: linear-gradient(180deg, transparent,orange);
+    border-bottom: 2px solid orangered;
+    font-style: italic;
+	margin-top: 23px;
+	width: 863px;
+    margin-left: -23px;
+}
+.col-xl-4
+{
+	text-transform: capitalize;
+    font-variant: all-small-caps;
+}
+#recruiment
+{
+	text-align: center;
+    font-size: larger;
+	text-transform: capitalize;
+    font-variant: small-caps;
+}
+#company-name
+{
+	    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+/*---------------------mid-portion(second-portion)----------------------*/
+h5
+{
+	 text-transform: uppercase;
+    color: darkorange;
+    font-family: auto;
+    font-weight: bold ! important;
+}
+p
+{
+	 text-transform: capitalize;
+    font-family: -webkit-body;
+}
+
+
+/*footer----------------*/
+		#menu
+		{
+			height: 70px;
+            width: 70rem;
+            background-color: whitesmoke;
+            margin-top: 1rem;
+			font-weight: bold;
+		}
+		#creater
+		{
+			font-size: smaller;
+            color:  burlywood;
+		}
+#menu a
+{
+	color: orange ! important;
+	text-decoration: none;
+}

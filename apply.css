@@ -1,0 +1,130 @@
+/*----header--------*/
+        #h1
+		{
+			    text-align: center;
+                font-weight: 900;
+                font-size: xx-large;
+			text-transform: capitalize;
+			font-variant: small-caps;
+		}
+		#h2
+		{
+			text-align: center;
+             font-family: initial;
+             font-weight: 600;
+			font-size: medium;
+		}
+		.head1
+		{
+			background-color: beige;
+            padding-bottom: 2rem;
+		}
+		.header
+		{
+			background-color: darksalmon;
+			padding-bottom: 0rem;
+		}
+		.nav-link
+		{
+			    color: white ! important;
+               font-weight: 900;
+		}
+/*----mid heading---------*/
+        #heading
+		{
+    font-size: x-large;
+    text-align: center;
+    color: sienna;
+	margin-top: 2rem;
+    margin-bottom: 3rem;
+    font-family: auto;
+    font-weight: 600;
+	text-decoration: underline;
+	text-underline-offset:3px; 		
+     }
+/*--------form-------------*/
+input
+{
+	width: 35rem;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #ccc;
+	margin-bottom: 35px;
+	background-color: transparent;
+}
+textarea.form-control
+{
+	height: 5rem;
+    width: 45rem;
+	margin-bottom: 1rem;
+	background-color: transparent;
+	 border: 2px solid #ccc;
+}
+lebel
+{
+    margin-bottom: 5px;
+    display: block;
+     margin-top: 30px;
+    font-size: large;
+    font-variant: small-caps;
+    font-weight: 500;
+}
+.form-group
+{
+    margin-bottom: 1.5rem;
+    font-size: large;
+    font-variant: small-caps;
+    font-weight: 500;
+	margin-top: 20px;
+}
+.button
+{
+	margin-top: 35px;
+    text-align: center;
+    margin-bottom: 35px;
+}
+#read
+{
+	 margin-top: 10px;
+    margin-bottom: 15px;
+}
+#instruction
+{
+	font-size: smaller;
+    color: firebrick;
+}
+#rule
+{
+	 text-transform: uppercase;
+    font-family: auto;
+    font-size: smaller;
+	color: darkorange;
+}
+mark
+{
+	padding: .2em;
+    background-color: gainsboro;
+    color: red;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+/*----foooter-----------*/
+       #menu
+		{
+			height: 70px;
+            width: 70rem;
+            background-color: whitesmoke;
+            margin-top: 1rem;
+			font-weight: bold;
+		}
+		#creater
+		{
+			font-size: smaller;
+            color:  burlywood;
+		}
+#menu a
+{
+	color: orange ! important;
+	text-decoration: none;
+}

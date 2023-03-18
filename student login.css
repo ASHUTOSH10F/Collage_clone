@@ -1,0 +1,94 @@
+/*--------header---------*/
+		#h1
+		{
+			
+			    text-align: center;
+                font-weight: 900;
+                font-size: xx-large;
+			font-variant: small-caps;
+			text-transform: capitalize;
+        }
+		#h2
+		{
+			text-align: center;
+            font-family: initial;
+            font-weight: 600;
+			font-size: medium;
+		}
+		.head1
+		{
+			background-color: beige;
+            padding-bottom: 2rem;
+		}
+		.header
+		{
+			background-color: darksalmon;
+			padding-bottom: 0rem;
+		}
+/*---navbar-----------*/
+		.nav-link
+		{
+			   color: white ! important;
+               font-weight: 900;
+		}
+/*----carouel----------*/
+		.slide
+		{
+			height: 400px;
+		}
+		.carousel-inner
+		{
+		  padding: 5px;
+		}
+		.carousel-item
+		{
+         border: 1px solid black ;
+		}
+		.row
+		{
+		 margin-top: 2rem;
+		}
+         #heading
+		{
+		    font-size: x-large;
+    text-align: center;
+    color: sienna;
+    font-family: auto;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 3rem;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+		}
+      label 
+     {
+	 font-variant: small-caps;
+    font-size: larger;
+    }
+.btn-block
+{
+	    margin-top: 2rem;
+    margin-bottom: 5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+/*footer----------------*/
+		#menu
+		{
+			height: 70px;
+            width: 70rem;
+            background-color: whitesmoke;
+            margin-top: 1rem;
+			font-weight: bold;
+		}
+		#creater
+		{
+			font-size: smaller;
+            color:  burlywood;
+		}
+#menu a
+{
+	color: orange ! important;
+	text-decoration: none;
+}
